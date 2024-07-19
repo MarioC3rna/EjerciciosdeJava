@@ -117,6 +117,6 @@ public class Main {
             }
         } while (option != 7);
 
-        scanner.close();
+        scanner.close() ;
     }
 }
